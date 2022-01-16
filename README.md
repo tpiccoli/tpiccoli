@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tpiccoli
-- 👀 I’m interested in data analisys.
+- 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning python coding and VBA. 
 
 <!---
